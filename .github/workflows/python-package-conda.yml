@@ -24,7 +24,7 @@ jobs:
 
       - name: Update Conda environment
         run: |
-          conda env update --file environment.yml --name base
+          conda env update --file python-package-conda.yml --name base
 
       - name: Lint with flake8
         run: |
