@@ -12,6 +12,8 @@ Step 1: Install Python
 
 Step 2: Set Up a Virtual Environment
 
+
+
 1. Open Command Prompt or Terminal**: Access your system's command line interface.
 2. Create a virtual environment**: This helps keep your project dependencies isolated from other projects. You can use tools like `venv` or `virtualenv`.
 3. Activate the virtual environment**: Activation ensures that any packages you install only affect this project.

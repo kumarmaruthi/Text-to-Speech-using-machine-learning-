@@ -9,11 +9,6 @@
 # f.say("Hello"+a)
 # f.runAndWait()
 
-
-
-
-
-
 # This code is run only more then  times
 import pyttsx3
 f = pyttsx3.init()
